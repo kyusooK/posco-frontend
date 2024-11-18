@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.posco.carmanagement.s20a01.domain.car.mybatis.CarMapper">
+    
+    <!-- 예시 -->
+    <!-- <select id="selectCarList" resultType="CarMybatisEntity">
+        SELECT * FROM Car_table
+    </select>
+    <select id="selectCar" resultType="CarMybatisEntity">
+        SELECT * FROM Car_table WHERE resourceId = #{id}
+    </select> -->
+</mapper>
